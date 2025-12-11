@@ -1,0 +1,51 @@
+customer_id,name,email,location,signup_date,age,gender
+1,George Collier,scottkeith@gmail.com,Johntown,2025-01-10,58,Male
+2,Erik Gould,mmatthews@yahoo.com,South Joseph,2025-02-06,19,Other
+3,Stephen Lee,rmoore@gmail.com,Lake Tammyview,2024-07-29,35,Male
+4,Charles Nunez,vsmith@hotmail.com,North Michele,2025-06-17,32,Male
+5,Michelle Brown,martinezchristian@gmail.com,East Jeff,2024-08-17,65,Male
+6,Kimberly Duncan,woodkimberly@gmail.com,Carlburgh,2024-06-12,61,Other
+7,Dr. Russell Nguyen MD,judith41@gmail.com,Lake Tonya,2025-01-13,52,Male
+8,Elizabeth Frost,sanderson@gmail.com,Villarrealhaven,2025-01-07,55,Female
+9,Randall Brown,erik26@gmail.com,Davidfort,2024-01-04,20,Male
+10,Melissa Howe,kimberlymoore@gmail.com,Whitestad,2024-03-02,23,Male
+11,George Haas,tanyasingh@hotmail.com,Cookemouth,2024-03-02,32,Other
+12,Morgan Hernandez,felicia87@yahoo.com,Lake Stevechester,2024-12-22,56,Male
+13,Michael Singh,williamsjohn@yahoo.com,Port Kristin,2024-07-01,53,Male
+14,Timothy Walker,sstevens@gmail.com,North Wesleyland,2023-12-23,63,Other
+15,Angela Morrison,rileydonald@gmail.com,Christophershire,2024-09-02,62,Other
+16,Joseph Mendoza,kristindixon@yahoo.com,Michelleville,2024-01-07,44,Male
+17,James Fox,pking@hotmail.com,East Kyleberg,2025-03-20,46,Other
+18,David Abbott,michael45@yahoo.com,North Daniellefort,2025-10-19,35,Male
+19,Brian Wright,bowershayley@gmail.com,Robinsonport,2024-02-05,28,Other
+20,Alexis Rowe,moralesemily@hotmail.com,Aaronshire,2024-10-15,45,Female
+21,Steven Stone,keith15@hotmail.com,New Crystalside,2024-12-26,35,Male
+22,Vanessa Mitchell,whitekevin@yahoo.com,Gainesland,2023-12-12,31,Female
+23,Martha Trujillo,butlershannon@gmail.com,South Jesusside,2024-06-06,24,Male
+24,Sharon Turner,erin64@yahoo.com,Wayneton,2024-12-14,42,Male
+25,Melissa Morales,qbrown@hotmail.com,North Dianachester,2024-11-26,40,Female
+26,Roberta Hudson,crystalriley@yahoo.com,East Megan,2025-11-27,56,Female
+27,Monique Williams,mdowns@gmail.com,West Dwayne,2025-09-10,20,Other
+28,Dr. Yesenia Porter MD,imorales@yahoo.com,West Nicole,2025-04-07,47,Other
+29,Dennis Gonzalez,carterthomas@gmail.com,South Michelemouth,2024-04-26,25,Female
+30,David Price,victoriahernandez@yahoo.com,West Leahside,2024-06-27,23,Other
+31,Edward Parker,lvasquez@yahoo.com,North Williammouth,2024-03-02,36,Other
+32,Kyle Romero,avilamiguel@hotmail.com,Johnland,2024-07-12,57,Female
+33,Adam Keller,sarah68@gmail.com,Ryanburgh,2024-03-01,54,Male
+34,Cynthia Elliott,winterscharles@gmail.com,East Morgan,2024-10-27,63,Male
+35,Zachary Thompson,castrojohn@hotmail.com,Schroederstad,2024-01-03,20,Other
+36,Nancy Johnson,richardsmark@gmail.com,East Jessicahaven,2025-08-22,32,Female
+37,Michael Travis,vcaldwell@gmail.com,Averyborough,2025-06-19,23,Male
+38,Angel Schultz,njames@yahoo.com,Samanthafort,2025-07-02,24,Female
+39,Joshua Barker,kreese@yahoo.com,Brownbury,2025-11-24,35,Female
+40,Amanda Santos,andrewpearson@gmail.com,Stevenmouth,2025-03-06,58,Female
+41,Sonya Davis,valerie17@yahoo.com,North Maryberg,2023-12-15,28,Female
+42,Chad Gonzalez,vclark@gmail.com,North Keithshire,2025-01-18,40,Male
+43,Debra Webb,farmercole@hotmail.com,North Tammy,2024-04-10,60,Female
+44,Anthony Holloway,matthew84@gmail.com,Port Bradley,2025-11-13,62,Other
+45,Jessica Roberts,mcdonaldelizabeth@gmail.com,New Maryport,2024-06-08,59,Male
+46,Scott Sullivan,andresanderson@yahoo.com,New Taylor,2024-09-20,56,Other
+47,Derrick Castillo,kathleenrobinson@hotmail.com,East Rachel,2025-12-03,28,Other
+48,Nancy Rivera,rwright@yahoo.com,Michaelview,2025-06-19,64,Male
+49,Gabriel Hart,reyeskevin@gmail.com,Sharonmouth,2024-03-28,28,Female
+50,Clarence Wolf,alexander78@gmail.com,South Michellemouth,2025-03-21,42,Female
